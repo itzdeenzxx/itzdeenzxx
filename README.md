@@ -1,110 +1,102 @@
-# 👋 Hi, I'm Addeen!
+# Hi there! I'm Addeen Salaehsakul 👨‍💻🤖
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=00A2FF&center=true&width=700&lines=Computer+Science+Student+%7C+Kasetsart+University;AI+%26+Machine+Learning+Engineer+%7C+Full+Stack+Developer;Transforming+Ideas+into+Intelligent+Solutions" alt="Professional Intro" />
+</div>
 
 ## 🚀 About Me
-I'm a passionate **Computer Science student** at Kasetsart University, Sriracha Campus, with a keen interest in **AI, Machine Learning**, and **Software Development**. I thrive on solving complex problems, participating in hackathons, and building impactful projects that make a difference.
+I'm a passionate Computer Science student at Kasetsart University, Sriracha Campus, with a keen interest in AI, Machine Learning, and Software Development. I thrive on solving complex problems, participating in hackathons, and building impactful projects that make a difference.
+## 🔥 Technical Skills & Tools
 
-## 🎓 Education
-- **Kasetsart University, Sriracha Campus**
-  - Bachelor's in Computer Science (2022 - Present)
-- **Narathiwat Secondary School** (2019 - 2021)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,tensorflow,vue,react,flutter,nodejs,docker,git" alt="Tech Stack" />
+</div>
 
-## 🏆 Recent Achievements
-- 🏆 **Gold Award** - ICDL Digital Challenge 2024 Inter National Round (AI and Big Data)
-- 🥈 **Silver Medalist** - ICDL Digital Challenge 2024 National Round (AI and Big Data)
-- 🏆 **1st Place** - Startup Development Program (Rising Star Pitching Award)
-- 🌟 **Top 18 Finalist** - Moral Hackathon
-- 🚀 **Top 10 Finalist** - EEC Hackathon
-- 📊 **Top 15 Finalist** - CMCC 2024 (Capital Market Case Competition)
-- 💻 **Top 20 Finalist** - Hack to the Max Digital Infrastructure
+## 🏆 Achievements
+- 🥇 Gold Award - ICDL Digital Challenge 2024 (AI and Big Data)
+- 🥈 Silver Medalist - ICDL Digital Challenge 2024
+- 🚀 1st Place - Startup Development Program
+- 🚀 Top 10 Finalist - EEC Hackathon
+- 📊 Top 15 Finalist - CMCC 2024 (Capital Market Case Competition)
+- 🌟 Top 18 Finalist - Moral Hackathon
+- 💻 Top 20 Finalist - Hack to the Max Digital Infrastructure
 
-## 💻 Technical Skills
+## 🚀 Highlighted Projects
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+### 1. 🧠 AI-Powered Alzheimer's Prevention Exercise App
+- **Technologies**: Mediapipe, Naive Bayes ML
+- **Features**:
+  - Real-time body movement detection
+  - Sentiment analysis for exercise motivation
+  - Presented at Thailand Disease Prevention Conference
+- **Achievements**: Featured at ICDL Digital Challenge
 
-### Frameworks & Tools
-- **Web Development**: Flask, Vue.js, Express.js
-- **Database**: PostgreSQL
-- **Computer Vision**: Mediapipe
-- **Mobile**: Flutter
+### 2. 📊 PM2.5 Forecasting System
+- **Technologies**: LSTM, CNN, Prophet
+- **Objectives**: 
+  - Accurate air quality predictions
+  - Advanced machine learning models
+- **Impact**: Environmental data analysis and forecasting
 
-### AI & Data Science
-- **Machine Learning**: Sentiment Analysis, CNN, LSTM
-- **Forecasting**: Prophet
-- **Data Analysis**: Data Cleaning, Model Implementation
-- **Visualization**: Power BI
+### 3. 🎬 Movie Ticket Booking Platform
+- **Tech Stack**: Vue.js, Express.js, PostgreSQL
+- **Features**:
+  - Full-stack web application
+  - Integrated booking system
+  - Responsive design
 
-### Additional Skills
-- Video Editing
-- Hackathon Pitching
-- AI Tools Integration
+### 4. 😊 Real-Time Emotion Detection App
+- **Technologies**: Haar Cascade, CNN
+- **Capabilities**:
+  - Facial emotion recognition
+  - Real-time camera input processing
+  - Machine learning-driven prediction
 
-## 📊 Current Projects
+### 5. 🤖 AI Surveillance System
+- **Features**:
+  - Real-time accident detection
+  - Automated emergency alert system
+- **Technologies**: Computer Vision, AI Algorithms
 
-### PM2.5 Forecasting System
-- Implementing LSTM, CNN, and Prophet models
-- Focused on accurate air quality predictions
+### 6. 🌍 Eco-Friendly Reward Application
+- **Concept**: Promoting ESG investments
+- **Features**: 
+  - Integrated donation platform
+  - Sustainability-focused rewards system
 
-### Movie Ticket Booking Platform
-- Full-stack application using Vue.js and Express.js
-- PostgreSQL database integration
+### 7. 🎵 AI-Powered Music Player Web App
+- **Technologies**: KNN, ChatGPT API
+- **Features**:
+  - Song preference calculation
+  - Intelligent song recommendations
+  - ChatGPT integration for music queries
 
-### AI-Powered Surveillance System
-- Real-time accident detection
-- Automated emergency alert system
+### 8. 💬 Chatbot Sentiment Analyzer
+- **Technologies**: Deep Learning, Flask, LINE
+- **Features**:
+  - Custom dataset analysis
+  - Google Cloud deployment
+  - LINE chatbot integration
 
-### Eco-Friendly Reward Application
-- Promoting ESG investments
-- Integrated donation platform
+### 9. 🏥 Diabetes Testing & Office Syndrome Apps
+- **Developed for**: EEC and Moral Hackathons
+- **Technologies**: AI-based prediction, ChatGPT API
+- **Features**: 
+  - Blood sample analysis
+  - Posture detection
+  - Health severity measurement
 
-### Alzheimer's Prevention Exercise App
-- Detects body movements using Mediapipe
-- Sentiment analysis with Naive Bayes ML model
-- Prototype presented at ICDL Digital Challenge and Thailand Disease Prevention Conference
+## 📊 GitHub Statistics
 
-### Sentiment Analysis Web App
-- Predicts emotions from text using Naive Bayes ML model
-- 61% accuracy with Stock dataset
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzdeenzxx&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdeenzxx&layout=compact&theme=radical"/>
+</div>
 
-### Real-Time Emotion Detection App
-- Uses Haar Cascade and CNN for face detection
-- Predicts emotions through camera input
-
-### Chatbot Sentiment Analyzer
-- Custom dataset with deep learning
-- Google Cloud deployment via Flask
-- LINE integration for chatbot interaction
-
-### Music Player Web App
-- Plays songs from a database
-- KNN-based preference calculation
-- Integrated ChatGPT API for song-related queries
-
-### Ghost-Themed Puzzle Game
-- Inspired by 'The House' horror game
-- Developed using Java GUI Swing
-
-### Diabetes Testing App
-- Developed for EEC Hackathon
-- AI-based prediction using blood sample analysis
-
-### Office Syndrome Detection App
-- Created for Moral Hackathon
-- Posture detection and Alzheimer's severity measurement via ChatGPT API
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itzdeenzxx&show_icons=true&theme=radical)
-
-## 💏 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/addeen-salaehsakul)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzdeenzxx)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addeen.s@ku.th)
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=web)](https://portfolio-addeen.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/addeen-salaehsakul)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:addeen.s@ku.th)
 
 ---
-*Thanks for visiting my profile! Feel free to reach out for collaborations or just to say hi! 😊*
-
+*Transforming Ideas into Intelligent Solutions* 🚀✨
