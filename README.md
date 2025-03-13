@@ -13,7 +13,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 </div>
 
 ## 🏆 Achievements
-- 🥇 Gold Award - ICDL Digital Challenge 2024 International Round (AI and Big Data)
+- 🏆 Gold Award - ICDL Digital Challenge 2024 International Round (AI and Big Data)
 - 🥈 Silver Medalist - ICDL Digital Challenge 2024 National Round (AI and Big Data)
 - 🚀 1st Place - Startup Development Program
 - 🚀 Top 10 Finalist - EEC Hackathon
