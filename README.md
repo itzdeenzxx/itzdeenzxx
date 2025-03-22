@@ -9,8 +9,14 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 ## 🔥 Technical Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,tensorflow,vue,react,flutter,nodejs,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,javascript,typescript,bash,r" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv,flask,express" alt="AI & Backend" /><br>
+  <img src="https://skillicons.dev/icons?i=vue,react,flutter,nodejs" alt="Frontend & Frameworks" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,postgres,mysql,mongodb" alt="DevOps & Databases" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,linux" alt="Other Tools" />
 </div>
+
+
 
 ## 🏆 Achievements
 - 🏆 Gold Award - ICDL Digital Challenge 2024 International Round (AI and Big Data)
