@@ -20,6 +20,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 📊 Top 15 Finalist - CMCC 2024 (Capital Market Case Competition)
 - 🌟 Top 18 Finalist - Moral Hackathon
 - 💻 Top 20 Finalist - Hack to the Max Digital Infrastructure
+- 🚀 Finalist - Learn Lab 2025 Creativity Beyond AI
 
 ## 🚀 Highlighted Projects
 
