@@ -44,48 +44,63 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
   - Accurate air quality predictions
   - Advanced machine learning models
 - **Impact**: Environmental data analysis and forecasting
-
-### 3. 🎬 Movie Ticket Booking Platform
+  
+### 3. 🌊 Flutter-Based Flood Alert App  
+- **Technologies**: Flutter, Firebase Auth, Firebase Firestore, Phatumma LLM  
+- **Features**:  
+  - AI Chatbot providing flood preparedness guidance powered by Phatumma LLM  
+  - Flood news updates with real-time alerts  
+  - Preparation checklist with essential items to pack before a flood  
+  - Preparedness guide with step-by-step instructions for before, during, and after a flood  
+  - Disease analysis using AI to assess potential health risks caused by floods and provide prevention tips  
+  - Emergency contacts for quick access to important numbers and organizations  
+  - Dark Mode support for better user experience  
+  - Secure login and registration using Firebase Authentication  
+  - Cloud database with real-time data storage and retrieval using Firebase Firestore
+    
+ ### 4. 💬 Chatbot Sentiment Analyzer
+- **Technologies**: Deep Learning, Flask, LINE
+- **Features**:
+  - Custom dataset analysis
+  - Google Cloud deployment
+  - LINE chatbot integration
+    
+ ### 5. 😊 Real-Time Emotion Detection App
+- **Technologies**: Haar Cascade, CNN
+- **Capabilities**:
+  - Facial emotion recognition
+  - Real-time camera input processing
+  - Machine learning-driven prediction
+ 
+### 6. 🎵 AI-Powered Music Player Web App
+- **Tech Stack**: Vue.js, Express.js, PostgreSQL
+- **Technologies**: KNN, ChatGPT API
+- **Features**:
+  - Song preference calculation
+  - Intelligent chatbot song recommendations
+  - ChatGPT integration for music queries
+  - Musics Video from youtube embed
+    
+### 7. 🎬 Movie Ticket Booking Platform
 - **Tech Stack**: Vue.js, Express.js, PostgreSQL
 - **Features**:
   - Full-stack web application
   - Integrated booking system
   - Responsive design
 
-### 4. 😊 Real-Time Emotion Detection App
-- **Technologies**: Haar Cascade, CNN
-- **Capabilities**:
-  - Facial emotion recognition
-  - Real-time camera input processing
-  - Machine learning-driven prediction
-
-### 5. 🤖 AI Surveillance System
+### 8. 🤖 AI Surveillance System
 - **Features**:
   - Real-time accident detection
   - Automated emergency alert system
-- **Technologies**: Computer Vision, AI Algorithms
+- **Technologies**: YOLOv8, CNN, ONNX Runtime
 
-### 6. 🌍 Eco-Friendly Reward Application
+### 9. 🌍 Eco-Friendly Reward Application
 - **Concept**: Promoting ESG investments
 - **Features**: 
   - Integrated donation platform
   - Sustainability-focused rewards system
 
-### 7. 🎵 AI-Powered Music Player Web App
-- **Technologies**: KNN, ChatGPT API
-- **Features**:
-  - Song preference calculation
-  - Intelligent song recommendations
-  - ChatGPT integration for music queries
-
-### 8. 💬 Chatbot Sentiment Analyzer
-- **Technologies**: Deep Learning, Flask, LINE
-- **Features**:
-  - Custom dataset analysis
-  - Google Cloud deployment
-  - LINE chatbot integration
-
-### 9. 🏥 Diabetes Testing & Office Syndrome Apps
+### 10. 🏥 Diabetes Testing & Office Syndrome Apps
 - **Developed for**: EEC and Moral Hackathons
 - **Technologies**: AI-based prediction, ChatGPT API
 - **Features**: 
