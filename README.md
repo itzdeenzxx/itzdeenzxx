@@ -29,6 +29,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 💻 Top 20 Finalist - Hack to the Max Digital Infrastructure
 - 🚀 Finalist - Learn Lab 2025 Creativity Beyond AI
 - 💻 1st Runner-up, Super AI Engineer Season 5 (Innovator Track)
+- 🥈 1st Runner-up, BangRak Hackathon 2025
 
 ## 🚀 Highlighted Projects
 
