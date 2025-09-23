@@ -27,9 +27,10 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 📊 Top 15 Finalist - CMCC 2024 (Capital Market Case Competition)
 - 🌟 Top 18 Finalist - Moral Hackathon
 - 💻 Top 20 Finalist - Hack to the Max Digital Infrastructure
-- 🚀 Finalist - Learn Lab 2025 Creativity Beyond AI
+- 🚀 Finalist - Learn Lab Creativity Beyond AI
 - 💻 1st Runner-up, Super AI Engineer Season 5 (Innovator Track)
 - 🥈 1st Runner-up, BangRak Hackathon 2025
+- 🌟 Semi-Final - JUMP AIS Thailand Hackathon
 
 ## 🚀 Highlighted Projects
 
@@ -60,56 +61,13 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
   - Dark Mode support for better user experience  
   - Secure login and registration using Firebase Authentication  
   - Cloud database with real-time data storage and retrieval using Firebase Firestore
-    
- ### 4. 💬 Chatbot Sentiment Analyzer
-- **Technologies**: Deep Learning, Flask, LINE
-- **Features**:
-  - Custom dataset analysis
-  - Google Cloud deployment
-  - LINE chatbot integration
-    
- ### 5. 😊 Real-Time Emotion Detection App
-- **Technologies**: Haar Cascade, CNN
-- **Capabilities**:
-  - Facial emotion recognition
-  - Real-time camera input processing
-  - Machine learning-driven prediction
- 
-### 6. 🎵 AI-Powered Music Player Web App
-- **Tech Stack**: Vue.js, Express.js, PostgreSQL
-- **Technologies**: KNN, ChatGPT API
-- **Features**:
-  - Song preference calculation
-  - Intelligent chatbot song recommendations
-  - ChatGPT integration for music queries
-  - Musics Video from youtube embed
-    
-### 7. 🎬 Movie Ticket Booking Platform
-- **Tech Stack**: Vue.js, Express.js, PostgreSQL
-- **Features**:
-  - Full-stack web application
-  - Integrated booking system
-  - Responsive design
 
-### 8. 🤖 AI Surveillance System
+### 4. 🤖 AI Surveillance System
 - **Features**:
   - Real-time accident detection
   - Automated emergency alert system
 - **Technologies**: YOLOv8, CNN, ONNX Runtime
 
-### 9. 🌍 Eco-Friendly Reward Application
-- **Concept**: Promoting ESG investments
-- **Features**: 
-  - Integrated donation platform
-  - Sustainability-focused rewards system
-
-### 10. 🏥 Diabetes Testing & Office Syndrome Apps
-- **Developed for**: EEC and Moral Hackathons
-- **Technologies**: AI-based prediction, ChatGPT API
-- **Features**: 
-  - Blood sample analysis
-  - Posture detection
-  - Health severity measurement
 
 ## 📊 GitHub Statistics
 
