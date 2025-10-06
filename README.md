@@ -21,7 +21,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 ## 🏆 Achievements
 - 🏆 Gold Award - ICDL Digital Challenge 2024 International Round (AI and Big Data)
 - 🥈 Silver Medalist - ICDL Digital Challenge 2024 National Round (AI and Big Data)
-- 🚀 1st Place - Startup Development Program
+- 🚀 1st Place - Startup Development Program (Pitching Rising Star🎖️)
 - 🎖️ Honorable Mention - AI Thailand Hackathon 2024
 - 🚀 Top 10 Finalist - EEC Hackathon
 - 📊 Top 15 Finalist - CMCC 2024 (Capital Market Case Competition)
@@ -30,7 +30,8 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 🚀 Finalist - Learn Lab Creativity Beyond AI
 - 💻 1st Runner-up, Super AI Engineer Season 5 (Innovator Track)
 - 🥈 1st Runner-up, BangRak Hackathon 2025
-- 🌟 Semi-Final - JUMP AIS Thailand Hackathon
+- 🚀 Semi-Final - JUMP AIS Thailand Hackathon
+- 🌟 Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group (Rising Star🎖️)
 
 ## 🚀 Highlighted Projects
 
