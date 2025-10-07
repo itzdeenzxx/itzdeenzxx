@@ -72,13 +72,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 
 ## 📊 GitHub Statistics
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzdeenzxx&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=itzdeenzxx&theme=bear&show_icons=true&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdeenzxx&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=web)](https://portfolio-addeen.netlify.app/)
