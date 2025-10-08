@@ -75,7 +75,6 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzdeenzxx&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=web)](https://portfolio-addeen.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/addeen-salaehsakul-733017358)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:addeen.sk@gmail.com)
 
