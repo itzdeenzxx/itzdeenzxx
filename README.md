@@ -16,6 +16,20 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
   <img src="https://skillicons.dev/icons?i=html,css,linux" alt="Other Tools" />
 </div>
 
+---
+
+
+
+<div align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MMs67g_qfYIy4SC28c3eLUze1c8Y7mmLfQ&s" width="60" alt="Tamkang University Logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGqj2ylKT2lnw/company-logo_200_200/B56ZhKHykGHkAM-/0/1753590213806?e=1763596800&v=beta&t=gUQZCg1l4xe4gojzRDmLnje7AwfC5rbUagvJWgcixdk" width="60" alt="V89 Technology Logo" />
+</div>
+
+### 🧠 AI Researcher at Tamkang University, Taiwan  
+**Apr 2025 – Present | Hybrid (Taiwan)**
+
+### 💻 Software Engineer Intern at V89 TECHNOLOGY  
+**Aug 2025 – Present | Bangkok, Thailand**
 
 
 ## 🏆 Achievements
