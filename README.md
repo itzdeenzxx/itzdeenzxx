@@ -46,6 +46,20 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 🥈 1st Runner-up, BangRak Hackathon 2025
 - 🚀 Semi-Final - JUMP AIS Thailand Hackathon
 - 🌟 Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group (Rising Star🎖️)
+<br>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJ2cp0RdTV6O6Wo7r9pDj6jonp-J6Uzrwxg&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJJey9pP95dRhHpbZWwCAPL3DK7dafMnsuA&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxhJdAu90a8f2RB7wi22tSHV7mNVq1An6MA&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwWAV0pQj-7lpJIU2rGZKDaRA-wbE6xNHnw&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrQx10-qIqb_BSjsN-sNUxPlWZra5e6NPhg&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Ug57SnbsO2qz2zTGae93q1LWOefZnsm0dQ&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSrhmF-vcrLQXLPrzxKznMozlwrdLZovj83g&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRde6XrQ-YwqFwGDE-Q-BGkvqopObR2_xBwsg&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbrmeTwVnMwsQ2CDzf4G_TytJe8Y_9Z6fcA&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlnZdcTCuuC15ki1lvDH_GyFRF3vE1n3GSUA&s" height="90">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJDEaNou1tKW6-wXozllD2fgG2KezwAiXsQ&s" height="90">
+</p>
 
 ## 🚀 Highlighted Projects
 
