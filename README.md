@@ -46,6 +46,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 🥈 1st Runner-up, BangRak Hackathon 2025
 - 🚀 Semi-Final - JUMP AIS Thailand Hackathon
 - 🌟 Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group (Rising Star🎖️)
+- 🤖 Top 8 Finalist - Line Hackathon 2025
 <br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJ2cp0RdTV6O6Wo7r9pDj6jonp-J6Uzrwxg&s" height="90">
