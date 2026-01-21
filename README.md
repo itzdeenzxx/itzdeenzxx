@@ -66,7 +66,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 ## 🚀 Highlighted Projects
 
 ### 1. 🧠 AI-Powered Alzheimer's Prevention Exercise App
-- **Technologies**: Mediapipe, Naive Bayes ML
+- **Technologies**: Mediapipe
 - **Features**:
   - Real-time body movement detection
   - Sentiment analysis for exercise motivation
