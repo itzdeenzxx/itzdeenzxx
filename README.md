@@ -48,6 +48,7 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 🌟 Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group (Rising Star🎖️)
 - 💻 Finalist - CP CUP 2025 (Digital Innovation Track)
 - 🤖 Top 8 Finalist - LINE Hackathon 2025
+- 🤖 2nd runner-up - KU AI Pioneers: Forward Challenge
 <br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJ2cp0RdTV6O6Wo7r9pDj6jonp-J6Uzrwxg&s" height="90">
