@@ -26,11 +26,13 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 </div>
 
 ### 🧠 AI Researcher at Tamkang University, Taiwan  
-**Apr 2025 – Present | Hybrid (Taiwan)**
+**Apr 2025 – Aug 2025 | Hybrid (Taiwan)**
 
 ### 💻 Software Engineer Intern at V89 TECHNOLOGY  
-**Aug 2025 – Present | Bangkok, Thailand**
+**Aug 2025 – Dec 2025 | Bangkok, Thailand**
 
+### 🤖 Super AI Engineer Season 6
+**April 2026 – Present**
 
 ## 🏆 Achievements
 - 🏆 Gold Award - ICDL Digital Challenge 2024 International Round (AI and Big Data)
@@ -49,6 +51,10 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
 - 💻 Finalist - CP CUP 2025 (Digital Innovation Track)
 - 🤖 Top 8 Finalist - LINE Hackathon 2025
 - 🤖 2nd runner-up - KU AI Pioneers: Forward Challenge
+- 🌟 Finalist - OpenAI Hackathon Thailand
+- 🥈 2nd runner-up - National Telecom (NT) - Edge AI for Intelligent Transport System  (Super AI Engineer Season 6)
+
+
 <br>
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFJ2cp0RdTV6O6Wo7r9pDj6jonp-J6Uzrwxg&s" height="90">
@@ -63,42 +69,6 @@ I'm a passionate Computer Science student at Kasetsart University, Sriracha Camp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlnZdcTCuuC15ki1lvDH_GyFRF3vE1n3GSUA&s" height="90">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXJDEaNou1tKW6-wXozllD2fgG2KezwAiXsQ&s" height="90">
 </p>
-
-## 🚀 Highlighted Projects
-
-### 1. 🧠 AI-Powered Alzheimer's Prevention Exercise App
-- **Technologies**: Mediapipe
-- **Features**:
-  - Real-time body movement detection
-  - Sentiment analysis for exercise motivation
-  - Presented at Thailand Disease Prevention Conference
-- **Achievements**: Featured at ICDL Digital Challenge
-
-### 2. 📊 PM2.5 Forecasting System
-- **Technologies**: LSTM, CNN, Prophet
-- **Objectives**: 
-  - Accurate air quality predictions
-  - Advanced machine learning models
-- **Impact**: Environmental data analysis and forecasting
-  
-### 3. 🌊 Flutter-Based Flood Alert App  
-- **Technologies**: Flutter, Firebase Auth, Firebase Firestore, Phatumma LLM  
-- **Features**:  
-  - AI Chatbot providing flood preparedness guidance powered by Phatumma LLM  
-  - Flood news updates with real-time alerts  
-  - Preparation checklist with essential items to pack before a flood  
-  - Preparedness guide with step-by-step instructions for before, during, and after a flood  
-  - Disease analysis using AI to assess potential health risks caused by floods and provide prevention tips  
-  - Emergency contacts for quick access to important numbers and organizations  
-  - Dark Mode support for better user experience  
-  - Secure login and registration using Firebase Authentication  
-  - Cloud database with real-time data storage and retrieval using Firebase Firestore
-
-### 4. 🤖 AI Surveillance System
-- **Features**:
-  - Real-time accident detection
-  - Automated emergency alert system
-- **Technologies**: YOLOv8, CNN, ONNX Runtime
 
 
 ## 📊 GitHub Statistics
