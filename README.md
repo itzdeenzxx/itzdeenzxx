@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate Computer Science student at Kasetsart University, Sriracha Campus, with a keen interest in AI, Machine Learning, and Software Development. I thrive on solving complex problems, participating in hackathons, and building impactful projects that make a difference.
+I'm a passionate with a keen interest in AI, Machine Learning, and Software Development. I thrive on solving complex problems, participating in hackathons, and building impactful projects that make a difference.
 ## 🔥 Technical Skills & Tools
 
 <div align="center">
